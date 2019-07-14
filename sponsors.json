@@ -1,22 +1,22 @@
 [
-{
-"name": "Google Developers",
-"url": "https://developers.google.com/",
-"logo": "https://raw.githubusercontent.com/Rimjhim28/Devfest-19-Data/master/google_dev.png"
-},
-{
-"name": "JetBrains",
-"url": "https://www.jetbrains.com/",
-"logo": "https://raw.githubusercontent.com/Rimjhim28/Devfest-19-Data/master/jetbrains.png"
-},
-{
-"name": "Manning",
-"url": "https://www.manning.com/",
-"logo": "https://raw.githubusercontent.com/Rimjhim28/Devfest-19-Data/master/manning.png"
-},
-{
-"name": "PyImageSearch" ,
-"url": "https://www.pyimagesearch.com/",
-"logo": "https://raw.githubusercontent.com/Rimjhim28/Devfest-19-Data/master/pyimagesearch.png"
-}
+	{
+		"name": "Google Developers",
+		"url": "https://developers.google.com/",
+		"logo": "https://raw.githubusercontent.com/Rimjhim28/Devfest-19-Data/master/google_dev.png"
+	},
+	{
+		"name": "JetBrains",
+		"url": "https://www.jetbrains.com/",
+		"logo": "https://raw.githubusercontent.com/Rimjhim28/Devfest-19-Data/master/jetbrains.png"
+	},
+	{
+		"name": "Manning",
+		"url": "https://www.manning.com/",
+		"logo": "https://raw.githubusercontent.com/Rimjhim28/Devfest-19-Data/master/manning.png"
+	},
+	{
+		"name": "PyImageSearch" ,
+		"url": "https://www.pyimagesearch.com/",
+		"logo": "https://raw.githubusercontent.com/Rimjhim28/Devfest-19-Data/master/pyimagesearch.png"
+	}
 ]
