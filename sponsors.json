@@ -6,6 +6,12 @@
 		"description": "Google Developers is your source for announcements, protips from product experts, and the resources to support your development efforts."
 	},
 	{
+		"name": "Elastic",
+		"url": "https://elastic.co",
+		"logo": "https://devfest.gdgkolkata.org/assets/img/logos/elastic.png",
+		"description": "Elastic is the company behind the Elastic Stack — that's Elasticsearch, Kibana, Beats, and Logstash. From stock quotes to Twitter streams, Apache logs to WordPress blogs, we help people explore and analyze their data differently using the power of search."
+	},
+	{
 		"name": "JetBrains",
 		"url": "https://www.jetbrains.com/",
 		"logo": "https://raw.githubusercontent.com/Rimjhim28/Devfest-19-Data/master/jetbrains.png",
