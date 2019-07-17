@@ -3,24 +3,24 @@
 		"name": "Google Developers",
 		"url": "https://developers.google.com/",
 		"logo": "https://raw.githubusercontent.com/Rimjhim28/Devfest-19-Data/master/google_dev.png",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc aliquet bibendum enim. In massa tempor nec feugiat. Nunc aliquet bibendum enim facilisis gravida. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Amet luctus venenatis lectus magna fringilla. "
+		"description": "Google Developers is your source for announcements, protips from product experts, and the resources to support your development efforts."
 	},
 	{
 		"name": "JetBrains",
 		"url": "https://www.jetbrains.com/",
 		"logo": "https://raw.githubusercontent.com/Rimjhim28/Devfest-19-Data/master/jetbrains.png",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc aliquet bibendum enim. In massa tempor nec feugiat. Nunc aliquet bibendum enim facilisis gravida. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Amet luctus venenatis lectus magna fringilla. "
+		"description": "JetBrains is a leading creator of development tools which have been loved by professionals for over 15 years. JetBrain's mission is to make professional software development a more productive and enjoyable experience."
 	},
 	{
 		"name": "Manning",
 		"url": "https://www.manning.com/",
 		"logo": "https://raw.githubusercontent.com/Rimjhim28/Devfest-19-Data/master/manning.png",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc aliquet bibendum enim. In massa tempor nec feugiat. Nunc aliquet bibendum enim facilisis gravida. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Amet luctus venenatis lectus magna fringilla. "
+		"description": "Manning is an independent publisher of computer books for software developers, engineers, architects, system administrators, managers and all who are professionally involved with the computer business. The books we publish cover a huge range of topics that the modern developer needs; from languages and frameworks, to best practices for team leaders."
 	},
 	{
 		"name": "PyImageSearch" ,
 		"url": "https://www.pyimagesearch.com/",
 		"logo": "https://raw.githubusercontent.com/Rimjhim28/Devfest-19-Data/master/pyimagesearch.png",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc aliquet bibendum enim. In massa tempor nec feugiat. Nunc aliquet bibendum enim facilisis gravida. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Amet luctus venenatis lectus magna fringilla. "
+		"description": "Dedicated to helping developers, students, and researchers become awesome at Deep Learning, OpenCV, and Python."
 	}
 ]
