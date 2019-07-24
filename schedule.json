@@ -230,6 +230,63 @@
         ],
         "roomId": 7133,
         "room": "Eiffel Hall 1 & Eiffel Hall 2"
+      },
+{
+        "questionAnswers": [],
+        "id": "135470",
+        "title": "Cut your APK size with features on demand",
+        "description": "Do APK or app size matters?\r\nDoes a user think about the APK size before downloading it?\r\nDoes a user think about space, an app occupying on the phone?\r\nIs your App size is more than just a few MBs?\r\n\r\nWhat if we provide very basic functionality and let the user decide whether he wants the advanced or additional functionality or not?\r\n\r\nYes, The user thinks about the app size before downloading or updating an app which has a size larger than a few MBs. The user thinks about the data also over which he will be downloading or updating that app. He or she even think about how much space will it take on his or her device. In this fight of space in the device and size of the app, the apps having a smaller size and frequent utility wins the battle. \r\n\r\nWhat if we provide very basic functionality and let the user decide whether he wants the advanced or additional functionality or not. What if he or she can download only the features he needs on demand and keep the app compact. \r\n\r\nGoogle new feature of dynamic delivery enables us to deliver the features on demand. This helps us to reduce the size of APK and even enables the user to choose what features he needs. From a developers perspective, this is very easy to implement and maintain.\r\n\r\nEven we (Sharechat) were also at the same state where the size of APK was an issue with the new set of features we were trying to implement. Google Dynamic delivery came to the rescue.\r\n\r\nWhat is actually a dynamic delivery?\r\nHow can we reduce the APK size with it?\r\nHow it can help a user?\r\nHow to implement it in Android?\r\nHow difficult is it to implement in the existing code base?\r\nHow will it look to the user in the app?\r\n\r\nWell, let's get all these questions answered in the talk along with our experiences and challenges we faced.",
+        "startsAt": "2019-08-04T09:35:00",
+        "endsAt": "2019-08-04T10:20:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "e3617ae8-580d-483d-9830-01a1ced6ecf2",
+            "name": "Suneet Agrawal"
+          }
+        ],
+        "categories": [
+          {
+            "id": 15418,
+            "name": "Session format",
+            "categoryItems": [
+              {
+                "id": 22178,
+                "name": "Session"
+              }
+            ],
+            "sort": 0
+          },
+          {
+            "id": 15419,
+            "name": "Technology",
+            "categoryItems": [
+              {
+                "id": 22180,
+                "name": "Mobile Applications"
+              },
+              {
+                "id": 22211,
+                "name": "Android"
+              }
+            ],
+            "sort": 1
+          },
+          {
+            "id": 15420,
+            "name": "Audience level",
+            "categoryItems": [
+              {
+                "id": 22194,
+                "name": "Beginner"
+              }
+            ],
+            "sort": 2
+          }
+        ],
+        "roomId": 7132,
+        "room": "Eiffel Hall 1"
       }
     ]
   }
