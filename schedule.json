@@ -7,9 +7,9 @@
         "questionAnswers": [],
         "id": "138244",
         "title": "Registration",
-        "description": "",
-        "startsAt": "2019-08-04T08:50:00",
-        "endsAt": "2019-08-04T09:20:00",
+        "description": null,
+        "startsAt": "2019-08-04T08:00:00",
+        "endsAt": "2019-08-04T08:50:00",
         "isServiceSession": false,
         "isPlenumSession": true,
         "speakers": [
