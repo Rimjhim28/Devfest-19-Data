@@ -236,8 +236,8 @@
         "id": "138244",
         "title": "Tea Break",
         "description": "null",
-        "startsAt": "2019-08-04T09:15:00",
-        "endsAt": "2019-08-04T09:35:00",
+        "startsAt": "2019-08-04T08:50:00",
+        "endsAt": "2019-08-04T09:20:00",
         "isServiceSession": false,
         "isPlenumSession": true,
         "speakers": [
@@ -248,95 +248,38 @@
         ],
         "categories": [
           {
-            "id": 0,
-            "name": "",
+            "id": 15418,
+            "name": "Session format",
             "categoryItems": [
               {
-                "id": 0,
-                "name": ""
+                "id": 22178,
+                "name": "Session"
               }
             ],
             "sort": 0
           },
           {
-            "id": 0,
-            "name": "",
+            "id": 15419,
+            "name": "Technology",
             "categoryItems": [
               {
-                "id": 0,
-                "name": ""
+                "id": 22179,
+                "name": "Flutter"
               },
               {
-                "id": 0,
-                "name": ""
+                "id": 22186,
+                "name": "Machine Learning"
               }
             ],
             "sort": 1
           },
           {
-            "id": 0,
-            "name": "",
+            "id": 15420,
+            "name": "Audience level",
             "categoryItems": [
               {
-                "id": 0,
-                "name": ""
-              }
-            ],
-            "sort": 2
-          }
-        ],
-        "roomId": 7132,
-        "room": "Eiffel Hall 1 & Eiffel Hall 2"
-      },
-{
-        "questionAnswers": [],
-        "id": "138244",
-        "title": "Tea Break",
-        "description": "null",
-        "startsAt": "2019-08-04T09:15:00",
-        "endsAt": "2019-08-04T09:35:00",
-        "isServiceSession": false,
-        "isPlenumSession": true,
-        "speakers": [
-          {
-            "id": "41eaebb9-f1c8-45b1-90f1-bf2f048ce304",
-            "name": "Buffet Area"
-          }
-        ],
-        "categories": [
-          {
-            "id": 0,
-            "name": "",
-            "categoryItems": [
-              {
-                "id": 0,
-                "name": ""
-              }
-            ],
-            "sort": 0
-          },
-          {
-            "id": 0,
-            "name": "",
-            "categoryItems": [
-              {
-                "id": 0,
-                "name": ""
-              },
-              {
-                "id": 0,
-                "name": ""
-              }
-            ],
-            "sort": 1
-          },
-          {
-            "id": 0,
-            "name": "",
-            "categoryItems": [
-              {
-                "id": 0,
-                "name": ""
+                "id": 22195,
+                "name": "Intermediate"
               }
             ],
             "sort": 2
@@ -344,7 +287,7 @@
         ],
         "roomId": 7133,
         "room": "Eiffel Hall 1 & Eiffel Hall 2"
-      },
+      }
     ]
   }
 ]
