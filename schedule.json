@@ -174,6 +174,124 @@
         "roomId": 7132,
         "room": "Eiffel Hall 1 & Eiffel Hall 2"
       },
+      
+      {
+        "questionAnswers": [],
+        "id": "138244",
+        "title": "Tea Break",
+        "description": null,
+        "startsAt": "2019-08-04T12:45:00",
+        "endsAt": "2019-08-04T01:25:00",
+        "isServiceSession": false,
+        "isPlenumSession": true,
+        "speakers": [
+          {
+            "id": "",
+            "name": "Buffet Area"
+          }
+        ],
+        "categories": [
+          {
+            "id": 15418,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": "0"
+              }
+            ],
+            "sort": 0
+          },
+          {
+            "id": 0,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": "0"
+              },
+              {
+                "id": 0,
+                "name": ""
+              }
+            ],
+            "sort": 1
+          },
+          {
+            "id": 0,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": ""
+              }
+            ],
+            "sort": 2
+          }
+        ],
+        "roomId": 7132,
+        "room": "Eiffel Hall 1 & Eiffel Hall 2"
+      },
+      
+      {
+        "questionAnswers": [],
+        "id": "138244",
+        "title": "Tea Break",
+        "description": null,
+        "startsAt": "2019-08-04T12:45:00",
+        "endsAt": "2019-08-04T01:25:00",
+        "isServiceSession": false,
+        "isPlenumSession": true,
+        "speakers": [
+          {
+            "id": "",
+            "name": "Buffet Area"
+          }
+        ],
+        "categories": [
+          {
+            "id": 15418,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": "0"
+              }
+            ],
+            "sort": 0
+          },
+          {
+            "id": 0,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": "0"
+              },
+              {
+                "id": 0,
+                "name": ""
+              }
+            ],
+            "sort": 1
+          },
+          {
+            "id": 0,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": ""
+              }
+            ],
+            "sort": 2
+          }
+        ],
+        "roomId": 7133,
+        "room": "Eiffel Hall 1 & Eiffel Hall 2"
+      },
+      
+      
       {
         "questionAnswers": [],
         "id": "138244",
@@ -1804,6 +1922,122 @@
       },
       
        {
+        "questionAnswers": [],
+        "id": "138244",
+        "title": "Tea Break",
+        "description": null,
+        "startsAt": "2019-08-04T12:45:00",
+        "endsAt": "2019-08-04T01:25:00",
+        "isServiceSession": false,
+        "isPlenumSession": true,
+        "speakers": [
+          {
+            "id": "",
+            "name": "Buffet Area"
+          }
+        ],
+        "categories": [
+          {
+            "id": 15418,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": "0"
+              }
+            ],
+            "sort": 0
+          },
+          {
+            "id": 0,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": "0"
+              },
+              {
+                "id": 0,
+                "name": ""
+              }
+            ],
+            "sort": 1
+          },
+          {
+            "id": 0,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": ""
+              }
+            ],
+            "sort": 2
+          }
+        ],
+        "roomId": 7132,
+        "room": "Eiffel Hall 1 & Eiffel Hall 2"
+      },
+      
+       {
+        "questionAnswers": [],
+        "id": "138244",
+        "title": "Tea Break",
+        "description": null,
+        "startsAt": "2019-08-04T12:45:00",
+        "endsAt": "2019-08-04T01:25:00",
+        "isServiceSession": false,
+        "isPlenumSession": true,
+        "speakers": [
+          {
+            "id": "",
+            "name": "Buffet Area"
+          }
+        ],
+        "categories": [
+          {
+            "id": 15418,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": "0"
+              }
+            ],
+            "sort": 0
+          },
+          {
+            "id": 0,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": "0"
+              },
+              {
+                "id": 0,
+                "name": ""
+              }
+            ],
+            "sort": 1
+          },
+          {
+            "id": 0,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": ""
+              }
+            ],
+            "sort": 2
+          }
+        ],
+        "roomId": 7133,
+        "room": "Eiffel Hall 1 & Eiffel Hall 2"
+      },
+      
+       {
 
         "questionAnswers": [],
 
@@ -2257,6 +2491,121 @@
 
         "room": "Eiffel Hall 1 & Eiffel Hall 2"
 
+      },
+      
+       {
+        "questionAnswers": [],
+        "id": "138244",
+        "title": "End Note, Schwag Distribution",
+        "description": null,
+        "startsAt": "2019-08-04T12:45:00",
+        "endsAt": "2019-08-04T01:25:00",
+        "isServiceSession": false,
+        "isPlenumSession": true,
+        "speakers": [
+          {
+            "id": "",
+            "name": "Eiffel Hall 1"
+          }
+        ],
+        "categories": [
+          {
+            "id": 15418,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": "0"
+              }
+            ],
+            "sort": 0
+          },
+          {
+            "id": 0,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": "0"
+              },
+              {
+                "id": 0,
+                "name": ""
+              }
+            ],
+            "sort": 1
+          },
+          {
+            "id": 0,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": ""
+              }
+            ],
+            "sort": 2
+          }
+        ],
+        "roomId": 7132,
+        "room": "Eiffel Hall 1 & Eiffel Hall 2"
+      },
+       {
+        "questionAnswers": [],
+        "id": "138244",
+        "title": "End Note, Schwag Distribution",
+        "description": null,
+        "startsAt": "2019-08-04T12:45:00",
+        "endsAt": "2019-08-04T01:25:00",
+        "isServiceSession": false,
+        "isPlenumSession": true,
+        "speakers": [
+          {
+            "id": "",
+            "name": "Eiffel Hall 1"
+          }
+        ],
+        "categories": [
+          {
+            "id": 15418,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": "0"
+              }
+            ],
+            "sort": 0
+          },
+          {
+            "id": 0,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": "0"
+              },
+              {
+                "id": 0,
+                "name": ""
+              }
+            ],
+            "sort": 1
+          },
+          {
+            "id": 0,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": ""
+              }
+            ],
+            "sort": 2
+          }
+        ],
+        "roomId": 7133,
+        "room": "Eiffel Hall 1 & Eiffel Hall 2"
       }
     ]
   }
