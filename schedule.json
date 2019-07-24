@@ -516,6 +516,242 @@
         ],
         "roomId": 7132,
         "room": "Eiffel Hall 1"
+      },
+      {
+        "questionAnswers": [],
+        "id": "133842",
+        "title": "Machine learning in cytopathology: Experience from a clinical laboratory",
+        "description": "The viewpoint of a physician and a pathologist involved in cancer research, regarding suitability of machine learning models in detection of cancer from clinical specimens, especially cytology. Three models and associated dataset will be presented.",
+        "startsAt": "2019-08-04T11:15:00",
+        "endsAt": "2019-08-04T12:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "77931107-3b91-49a9-a83b-31e46ad1ccac",
+            "name": "Parikshit Sanyal"
+          }
+        ],
+        "categories": [
+          {
+            "id": 15418,
+            "name": "Session format",
+            "categoryItems": [
+              {
+                "id": 22176,
+                "name": "Lightning talk"
+              }
+            ],
+            "sort": 0
+          },
+          {
+            "id": 15419,
+            "name": "Technology",
+            "categoryItems": [
+              {
+                "id": 22186,
+                "name": "Machine Learning"
+              }
+            ],
+            "sort": 1
+          },
+          {
+            "id": 15420,
+            "name": "Audience level",
+            "categoryItems": [
+              {
+                "id": 22194,
+                "name": "Beginner"
+              }
+            ],
+            "sort": 2
+          }
+        ],
+        "roomId": 7133,
+        "room": "Eiffel Hall 2"
+      },
+      {
+        "questionAnswers": [],
+        "id": "136367",
+        "title": "Bringing Intelligence to Cross-Platform Applications",
+        "description": "With all the popularity and importance that machine learning is gaining today, it has become absolutely necessary for the mobile developers to adapt to the advancements and built applications that can detect and understand user’s behavior.  Developing applications intelligent enough to understand data comes with the responsibility of handling all the complexities behind machine learning. Firebase ML Kit ease the life of app developers by providing ready to use APIs that can be directly integrated to use the most common applications of machine learning models. In this session, we will talk about all the major Firebase ML Kit’s APIs available to make the features of machine learning available and accessible on mobile devices. Further, we will discuss how to integrate the APIs on a mobile application capable of running on different mobile platforms.\r\n\r\nOverview:\r\n- Speaker Introduction\r\n- What is Firebase ML Kit\r\n- Video and Image Analysis APIs\r\n- Natural Language Processing APIs\r\n- Hosting Custom models\r\n- Implementation in a Flutter application\r\n- Conclusion\r\n",
+        "startsAt": "2019-08-04T12:00:00",
+        "endsAt": "2019-08-04T12:45:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "d565ec8d-eab0-48d5-b77b-9bffb9714a94",
+            "name": "Rimjhim Bhadani"
+          }
+        ],
+        "categories": [
+          {
+            "id": 15418,
+            "name": "Session format",
+            "categoryItems": [
+              {
+                "id": 22178,
+                "name": "Session"
+              }
+            ],
+            "sort": 0
+          },
+          {
+            "id": 15419,
+            "name": "Technology",
+            "categoryItems": [
+              {
+                "id": 22179,
+                "name": "Flutter"
+              },
+              {
+                "id": 22180,
+                "name": "Mobile Applications"
+              },
+              {
+                "id": 22183,
+                "name": "Firebase"
+              },
+              {
+                "id": 22186,
+                "name": "Machine Learning"
+              }
+            ],
+            "sort": 1
+          },
+          {
+            "id": 15420,
+            "name": "Audience level",
+            "categoryItems": [
+              {
+                "id": 22195,
+                "name": "Intermediate"
+              }
+            ],
+            "sort": 2
+          }
+        ],
+        "roomId": 7132,
+        "room": "Eiffel Hall 1"
+      },
+      {
+        "questionAnswers": [],
+        "id": "134138",
+        "title": "Tweet to Location :- Predicting location of a user based on his tweets",
+        "description": "Open Source is a virtually unlimited tap of data for your Machine Learning needs , and when this data is used optimally with Machine Learning/ Deep Learning Approaches it can lead to some amazing results.\r\n\r\nI have worked extensively in this area and have implemented some critical solutions [like an AI-enabled Intelligence gathering tool for the Indian Army ] in this domain .\r\nIn this session i will be sharing a very interesting use case \" Predicting user location by Social Media Data\" . We will look at how its is possible [and the what extent!] to predict where a user is located based solely on what and when he tweets!\r\nWhen dealing with open source data , problem formulation and data cleaning are the major hurdles . I will discuss what sort of hurdles i faced while doing this and how to overcome them , and at the same time , draw parallels to show how these techniques can be used in any domain. \r\nWe will go also go over how the data is fed to various machine learning and deep learning algorithms and examine ",
+        "startsAt": "2019-08-04T12:00:00",
+        "endsAt": "2019-08-04T12:25:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "a1c9e835-5239-4d09-893b-198114a90c46",
+            "name": "Yash Deo"
+          }
+        ],
+        "categories": [
+          {
+            "id": 15418,
+            "name": "Session format",
+            "categoryItems": [
+              {
+                "id": 22176,
+                "name": "Lightning talk"
+              }
+            ],
+            "sort": 0
+          },
+          {
+            "id": 15419,
+            "name": "Technology",
+            "categoryItems": [
+              {
+                "id": 22186,
+                "name": "Machine Learning"
+              },
+              {
+                "id": 22187,
+                "name": "Data Science"
+              },
+              {
+                "id": 22188,
+                "name": "TensorFlow"
+              }
+            ],
+            "sort": 1
+          },
+          {
+            "id": 15420,
+            "name": "Audience level",
+            "categoryItems": [
+              {
+                "id": 22195,
+                "name": "Intermediate"
+              }
+            ],
+            "sort": 2
+          }
+        ],
+        "roomId": 7133,
+        "room": "Eiffel Hall 2"
+      },
+      {
+        "questionAnswers": [],
+        "id": "137801",
+        "title": "Using wordvectors",
+        "description": "Introduction to using the latest advances in natural language processing from Google",
+        "startsAt": "2019-08-04T12:25:00",
+        "endsAt": "2019-08-04T12:50:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "43bd2c9e-9ecd-4872-99ca-5bad8ad96030",
+            "name": "Priyanka Sinha"
+          }
+        ],
+        "categories": [
+          {
+            "id": 15418,
+            "name": "Session format",
+            "categoryItems": [
+              {
+                "id": 22176,
+                "name": "Lightning talk"
+              }
+            ],
+            "sort": 0
+          },
+          {
+            "id": 15419,
+            "name": "Technology",
+            "categoryItems": [
+              {
+                "id": 22186,
+                "name": "Machine Learning"
+              },
+              {
+                "id": 22187,
+                "name": "Data Science"
+              }
+            ],
+            "sort": 1
+          },
+          {
+            "id": 15420,
+            "name": "Audience level",
+            "categoryItems": [
+              {
+                "id": 22195,
+                "name": "Intermediate"
+              }
+            ],
+            "sort": 2
+          }
+        ],
+        "roomId": 7133,
+        "room": "Eiffel Hall 2"
       }
     ]
   }
