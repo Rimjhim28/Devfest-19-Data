@@ -1802,8 +1802,8 @@
         "room": "Eiffel Hall 2"
 
       },
-
-      {
+      
+       {
 
         "questionAnswers": [],
 
@@ -1913,7 +1913,235 @@
 
         "roomId": 7132,
 
-        "room": "Eiffel Hall 1"
+        "room": "Eiffel Hall 1 & Eiffel Hall 2"
+
+      },
+      
+      {
+
+        "questionAnswers": [],
+
+        "id": "138249",
+
+        "title": "Dark Sky Mysteries With ML",
+
+        "description": "Past, Present & Future of Astronomy with ML and a case study of discovering new exoplanets.",
+
+        "startsAt": "2019-08-04T16:50:00",
+
+        "endsAt": "2019-08-04T17:20:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": true,
+
+        "speakers": [
+
+          {
+
+            "id": "781b0c18-fcc9-4001-9560-77a81520da61",
+
+            "name": "Dikshita Desai"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22176,
+
+                "name": "Lightning talk"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22186,
+
+                "name": "Machine Learning"
+
+              },
+
+              {
+
+                "id": 22188,
+
+                "name": "TensorFlow"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22194,
+
+                "name": "Beginner"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7133,
+
+        "room": "Eiffel Hall 1 & Eiffel Hall 2"
+
+      },
+      
+      {
+
+        "questionAnswers": [],
+
+        "id": "138260",
+
+        "title": "Become a Pro Flutter Developer",
+
+        "description": "I will talk about some of the useful tips for flutter developers.",
+
+        "startsAt": "2019-08-04T17:20:00",
+
+        "endsAt": "2019-08-04T17:50:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": true,
+
+        "speakers": [
+
+          {
+
+            "id": "ef8bdc1c-c97e-4884-a363-df9c3afd2b30",
+
+            "name": "Pawan Kumar"
+
+          },
+
+          {
+
+            "id": "a1009d19-cdb1-417b-baa6-555d03ea480a",
+
+            "name": "Sayak Paul"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22178,
+
+                "name": "Session"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22179,
+
+                "name": "Flutter"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22195,
+
+                "name": "Intermediate"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7132,
+
+        "room": "Eiffel Hall 1 & Eiffel Hall 2"
 
       },
 
@@ -2025,9 +2253,9 @@
 
         ],
 
-        "roomId": 7132,
+        "roomId": 7133,
 
-        "room": "Eiffel Hall 1"
+        "room": "Eiffel Hall 1 & Eiffel Hall 2"
 
       }
     ]
