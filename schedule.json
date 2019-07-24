@@ -58,7 +58,7 @@
           }
         ],
         "roomId": 7132,
-        "room": "Eiffel Hall 1"
+        "room": "Eiffel Hall 1 & Eiffel Hall 2"
       },
       {
         "questionAnswers": [],
@@ -115,7 +115,7 @@
           }
         ],
         "roomId": 7133,
-        "room": "Eiffel Hall 2"
+        "room": "Eiffel Hall 1 & Eiffel Hall 2"
       }
     ]
   }
