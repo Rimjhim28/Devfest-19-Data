@@ -398,6 +398,124 @@
         ],
         "roomId": 7132,
         "room": "Eiffel Hall 1"
+      },
+      {
+        "questionAnswers": [],
+        "id": "138563",
+        "title": "Special Session on Startup and Building Ideas",
+        "description": "This talk will go through the business angle for Startups and building ideas.",
+        "startsAt": "2019-08-04T10:25:00",
+        "endsAt": "2019-08-04T11:10:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "03a6ba7e-69c2-4e73-bb3d-e29edf299abc",
+            "name": "Prajyot Mainkar"
+          }
+        ],
+        "categories": [
+          {
+            "id": 15418,
+            "name": "Session format",
+            "categoryItems": [
+              {
+                "id": 22178,
+                "name": "Session"
+              }
+            ],
+            "sort": 0
+          },
+          {
+            "id": 15419,
+            "name": "Technology",
+            "categoryItems": [
+              {
+                "id": 24039,
+                "name": "Start-ups & Product Strategy"
+              }
+            ],
+            "sort": 1
+          },
+          {
+            "id": 15420,
+            "name": "Audience level",
+            "categoryItems": [
+              {
+                "id": 22194,
+                "name": "Beginner"
+              }
+            ],
+            "sort": 2
+          }
+        ],
+        "roomId": 7133,
+        "room": "Eiffel Hall 2"
+      },
+      {
+        "questionAnswers": [],
+        "id": "136842",
+        "title": "Effective DI for Multi Module Project",
+        "description": "Dividing the module of a Monolithic Android app to realise multi-module application is considered as an important concern in recent Android development. \r\n\r\nThis session distils all the pitfalls and best practices in building a complex app and take a look at the usefulness of multi-module application and how we implemented Dependency Injection in our consumer app at Gojek(superapp.is)\r\n\r\nSome of the highlight points of this session are :\r\n\r\n1. Reintroduction to DI \r\n2. Reintroduction to Dagger-Android \r\n3. DI in single module projects \r\n4. DI hotness in multi-module projects \r\n5. Realise DI in multi-module projects using Dagger2",
+        "startsAt": "2019-08-04T11:15:00",
+        "endsAt": "2019-08-04T12:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "ed42f118-131f-4ff0-b644-43ba706b82e8",
+            "name": "Adit Lal"
+          }
+        ],
+        "categories": [
+          {
+            "id": 15418,
+            "name": "Session format",
+            "categoryItems": [
+              {
+                "id": 22178,
+                "name": "Session"
+              }
+            ],
+            "sort": 0
+          },
+          {
+            "id": 15419,
+            "name": "Technology",
+            "categoryItems": [
+              {
+                "id": 22180,
+                "name": "Mobile Applications"
+              },
+              {
+                "id": 22182,
+                "name": "Native Applications"
+              },
+              {
+                "id": 22191,
+                "name": "Kotlin"
+              },
+              {
+                "id": 22211,
+                "name": "Android"
+              }
+            ],
+            "sort": 1
+          },
+          {
+            "id": 15420,
+            "name": "Audience level",
+            "categoryItems": [
+              {
+                "id": 22195,
+                "name": "Intermediate"
+              }
+            ],
+            "sort": 2
+          }
+        ],
+        "roomId": 7132,
+        "room": "Eiffel Hall 1"
       }
     ]
   }
