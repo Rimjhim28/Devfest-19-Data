@@ -1,3 +1,2450 @@
-{
-  "state": 1
-}
+[
+
+  {
+
+    "groupId": null,
+
+    "groupName": "All",
+
+    "sessions": [
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "138244",
+
+        "title": "Keynote: How and Why Communities Can Help!",
+
+        "description": "Being a part of communities for more than 5 years, I will talk about my experience on how communities can help to improve your professional skills.",
+
+        "startsAt": "2019-08-04T08:50:00",
+
+        "endsAt": "2019-08-04T09:20:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": true,
+
+        "speakers": [
+
+          {
+
+            "id": "41eaebb9-f1c8-45b1-90f1-bf2f048ce304",
+
+            "name": "Nikita Gandhi"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22178,
+
+                "name": "Session"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22179,
+
+                "name": "Flutter"
+
+              },
+
+              {
+
+                "id": 22186,
+
+                "name": "Machine Learning"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22195,
+
+                "name": "Intermediate"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7132,
+
+        "room": "Eiffel Hall 1"
+
+      },
+
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "138244",
+
+        "title": "Keynote: How and Why Communities Can Help!",
+
+        "description": "Being a part of communities for more than 5 years, I will talk about my experience on how communities can help to improve your professional skills.",
+
+        "startsAt": "2019-08-04T08:50:00",
+
+        "endsAt": "2019-08-04T09:20:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": true,
+
+        "speakers": [
+
+          {
+
+            "id": "41eaebb9-f1c8-45b1-90f1-bf2f048ce304",
+
+            "name": "Nikita Gandhi"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22178,
+
+                "name": "Session"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22179,
+
+                "name": "Flutter"
+
+              },
+
+              {
+
+                "id": 22186,
+
+                "name": "Machine Learning"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22195,
+
+                "name": "Intermediate"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7132,
+
+        "room": "Eiffel Hall 2"
+
+      },
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "135470",
+
+        "title": "Cut your APK size with features on demand",
+
+        "description": "Do APK or app size matters?\r\nDoes a user think about the APK size before downloading it?\r\nDoes a user think about space, an app occupying on the phone?\r\nIs your App size is more than just a few MBs?\r\n\r\nWhat if we provide very basic functionality and let the user decide whether he wants the advanced or additional functionality or not?\r\n\r\nYes, The user thinks about the app size before downloading or updating an app which has a size larger than a few MBs. The user thinks about the data also over which he will be downloading or updating that app. He or she even think about how much space will it take on his or her device. In this fight of space in the device and size of the app, the apps having a smaller size and frequent utility wins the battle. \r\n\r\nWhat if we provide very basic functionality and let the user decide whether he wants the advanced or additional functionality or not. What if he or she can download only the features he needs on demand and keep the app compact. \r\n\r\nGoogle new feature of dynamic delivery enables us to deliver the features on demand. This helps us to reduce the size of APK and even enables the user to choose what features he needs. From a developers perspective, this is very easy to implement and maintain.\r\n\r\nEven we (Sharechat) were also at the same state where the size of APK was an issue with the new set of features we were trying to implement. Google Dynamic delivery came to the rescue.\r\n\r\nWhat is actually a dynamic delivery?\r\nHow can we reduce the APK size with it?\r\nHow it can help a user?\r\nHow to implement it in Android?\r\nHow difficult is it to implement in the existing code base?\r\nHow will it look to the user in the app?\r\n\r\nWell, let's get all these questions answered in the talk along with our experiences and challenges we faced.",
+
+        "startsAt": "2019-08-04T09:35:00",
+
+        "endsAt": "2019-08-04T10:20:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": false,
+
+        "speakers": [
+
+          {
+
+            "id": "e3617ae8-580d-483d-9830-01a1ced6ecf2",
+
+            "name": "Suneet Agrawal"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22178,
+
+                "name": "Session"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22180,
+
+                "name": "Mobile Applications"
+
+              },
+
+              {
+
+                "id": 22211,
+
+                "name": "Android"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22194,
+
+                "name": "Beginner"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7132,
+
+        "room": "Eiffel Hall 1"
+
+      },
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "134367",
+
+        "title": "Scale your Web Application Securely on Compute Engine",
+
+        "description": "A session with a demo explaining the multi-tier web app on Compute Engine. Below are the topics which I will cover in the session.\r\n\r\n1 IAAS Market stats and Compute options on GCP\r\n2 Choosing the right to compute service for the workload.\r\n3. Basics of Compute Engine along with spinning one Linux VM. Explaining all the various option/components. Showing the biggest VM available on Compute Engine.\r\n4. Presenting the Multi-Tier Application and explaining the role of each tier.\r\n5. Load Testing and demo of autoscaling and explaining the security parameters which needs to be taken care of.\r\n\r\nOverall this session will the idea of how the real world application is running and the value of GCP platform which is the lower level and most in use by an enterprise application to Startup workload.\r\n",
+
+        "startsAt": "2019-08-04T09:35:00",
+
+        "endsAt": "2019-08-04T10:20:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": false,
+
+        "speakers": [
+
+          {
+
+            "id": "09e3eba1-84a6-409a-a6ee-849f10c6b9d3",
+
+            "name": "Chirag Nayyar"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22178,
+
+                "name": "Session"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22184,
+
+                "name": "Google Cloud Platform"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22195,
+
+                "name": "Intermediate"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7133,
+
+        "room": "Eiffel Hall 2"
+
+      },
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "134243",
+
+        "title": "A tale of Multiplatform",
+
+        "description": "In the current wave of cross platform solutions, Kotlin’s multiplatform is shaping up to be a unique proponent of code reuse. Unlike write once run everywhere, Multiplatform offers a unique space of reusability and formalization of code across platforms and also removes dependency on custom VMs or runtime. Through this talk we'll go through building an app for Android and iOS and use Kotlin multiplatform for code sharing and building an abstraction layer across platforms.\r\nContents:\r\n- Introduction to Kotlin Multiplatform.\r\n- Basic Architecture for a Multiplatform app.\r\n- Multiplatform Libraries and few gotchas.\r\n- Pseudo code illustration.\r\n- Sample code/demo application.",
+
+        "startsAt": "2019-08-04T10:25:00",
+
+        "endsAt": "2019-08-04T11:10:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": false,
+
+        "speakers": [
+
+          {
+
+            "id": "0e8af5b9-c572-4e25-b1bc-c20ee829a68a",
+
+            "name": "Bedanta Bikash Borah"
+
+          },
+
+          {
+
+            "id": "a7da8c70-c13b-4ad5-aa0a-ddb502e5eed6",
+
+            "name": "Jitin Sharma"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22178,
+
+                "name": "Session"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22213,
+
+                "name": "Kotlin Multiplatform"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22195,
+
+                "name": "Intermediate"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7132,
+
+        "room": "Eiffel Hall 1"
+
+      },
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "138563",
+
+        "title": "Special Session on Startup and Building Ideas",
+
+        "description": "This talk will go through the business angle for Startups and building ideas.",
+
+        "startsAt": "2019-08-04T10:25:00",
+
+        "endsAt": "2019-08-04T11:10:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": false,
+
+        "speakers": [
+
+          {
+
+            "id": "03a6ba7e-69c2-4e73-bb3d-e29edf299abc",
+
+            "name": "Prajyot Mainkar"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22178,
+
+                "name": "Session"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 24039,
+
+                "name": "Start-ups & Product Strategy"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22194,
+
+                "name": "Beginner"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7133,
+
+        "room": "Eiffel Hall 2"
+
+      },
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "136842",
+
+        "title": "Effective DI for Multi Module Project",
+
+        "description": "Dividing the module of a Monolithic Android app to realise multi-module application is considered as an important concern in recent Android development. \r\n\r\nThis session distils all the pitfalls and best practices in building a complex app and take a look at the usefulness of multi-module application and how we implemented Dependency Injection in our consumer app at Gojek(superapp.is)\r\n\r\nSome of the highlight points of this session are :\r\n\r\n1. Reintroduction to DI \r\n2. Reintroduction to Dagger-Android \r\n3. DI in single module projects \r\n4. DI hotness in multi-module projects \r\n5. Realise DI in multi-module projects using Dagger2",
+
+        "startsAt": "2019-08-04T11:15:00",
+
+        "endsAt": "2019-08-04T12:00:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": false,
+
+        "speakers": [
+
+          {
+
+            "id": "ed42f118-131f-4ff0-b644-43ba706b82e8",
+
+            "name": "Adit Lal"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22178,
+
+                "name": "Session"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22180,
+
+                "name": "Mobile Applications"
+
+              },
+
+              {
+
+                "id": 22182,
+
+                "name": "Native Applications"
+
+              },
+
+              {
+
+                "id": 22191,
+
+                "name": "Kotlin"
+
+              },
+
+              {
+
+                "id": 22211,
+
+                "name": "Android"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22195,
+
+                "name": "Intermediate"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7132,
+
+        "room": "Eiffel Hall 1"
+
+      },
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "133842",
+
+        "title": "Machine learning in cytopathology: Experience from a clinical laboratory",
+
+        "description": "The viewpoint of a physician and a pathologist involved in cancer research, regarding suitability of machine learning models in detection of cancer from clinical specimens, especially cytology. Three models and associated dataset will be presented.",
+
+        "startsAt": "2019-08-04T11:15:00",
+
+        "endsAt": "2019-08-04T12:00:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": false,
+
+        "speakers": [
+
+          {
+
+            "id": "77931107-3b91-49a9-a83b-31e46ad1ccac",
+
+            "name": "Parikshit Sanyal"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22176,
+
+                "name": "Lightning talk"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22186,
+
+                "name": "Machine Learning"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22194,
+
+                "name": "Beginner"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7133,
+
+        "room": "Eiffel Hall 2"
+
+      },
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "136367",
+
+        "title": "Bringing Intelligence to Cross-Platform Applications",
+
+        "description": "With all the popularity and importance that machine learning is gaining today, it has become absolutely necessary for the mobile developers to adapt to the advancements and built applications that can detect and understand user’s behavior.  Developing applications intelligent enough to understand data comes with the responsibility of handling all the complexities behind machine learning. Firebase ML Kit ease the life of app developers by providing ready to use APIs that can be directly integrated to use the most common applications of machine learning models. In this session, we will talk about all the major Firebase ML Kit’s APIs available to make the features of machine learning available and accessible on mobile devices. Further, we will discuss how to integrate the APIs on a mobile application capable of running on different mobile platforms.\r\n\r\nOverview:\r\n- Speaker Introduction\r\n- What is Firebase ML Kit\r\n- Video and Image Analysis APIs\r\n- Natural Language Processing APIs\r\n- Hosting Custom models\r\n- Implementation in a Flutter application\r\n- Conclusion\r\n",
+
+        "startsAt": "2019-08-04T12:00:00",
+
+        "endsAt": "2019-08-04T12:45:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": false,
+
+        "speakers": [
+
+          {
+
+            "id": "d565ec8d-eab0-48d5-b77b-9bffb9714a94",
+
+            "name": "Rimjhim Bhadani"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22178,
+
+                "name": "Session"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22179,
+
+                "name": "Flutter"
+
+              },
+
+              {
+
+                "id": 22180,
+
+                "name": "Mobile Applications"
+
+              },
+
+              {
+
+                "id": 22183,
+
+                "name": "Firebase"
+
+              },
+
+              {
+
+                "id": 22186,
+
+                "name": "Machine Learning"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22195,
+
+                "name": "Intermediate"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7132,
+
+        "room": "Eiffel Hall 1"
+
+      },
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "134138",
+
+        "title": "Tweet to Location :- Predicting location of a user based on his tweets",
+
+        "description": "Open Source is a virtually unlimited tap of data for your Machine Learning needs , and when this data is used optimally with Machine Learning/ Deep Learning Approaches it can lead to some amazing results.\r\n\r\nI have worked extensively in this area and have implemented some critical solutions [like an AI-enabled Intelligence gathering tool for the Indian Army ] in this domain .\r\nIn this session i will be sharing a very interesting use case \" Predicting user location by Social Media Data\" . We will look at how its is possible [and the what extent!] to predict where a user is located based solely on what and when he tweets!\r\nWhen dealing with open source data , problem formulation and data cleaning are the major hurdles . I will discuss what sort of hurdles i faced while doing this and how to overcome them , and at the same time , draw parallels to show how these techniques can be used in any domain. \r\nWe will go also go over how the data is fed to various machine learning and deep learning algorithms and examine ",
+
+        "startsAt": "2019-08-04T12:00:00",
+
+        "endsAt": "2019-08-04T12:25:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": false,
+
+        "speakers": [
+
+          {
+
+            "id": "a1c9e835-5239-4d09-893b-198114a90c46",
+
+            "name": "Yash Deo"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22176,
+
+                "name": "Lightning talk"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22186,
+
+                "name": "Machine Learning"
+
+              },
+
+              {
+
+                "id": 22187,
+
+                "name": "Data Science"
+
+              },
+
+              {
+
+                "id": 22188,
+
+                "name": "TensorFlow"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22195,
+
+                "name": "Intermediate"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7133,
+
+        "room": "Eiffel Hall 2"
+
+      },
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "137801",
+
+        "title": "Using wordvectors",
+
+        "description": "Introduction to using the latest advances in natural language processing from Google",
+
+        "startsAt": "2019-08-04T12:25:00",
+
+        "endsAt": "2019-08-04T12:50:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": false,
+
+        "speakers": [
+
+          {
+
+            "id": "43bd2c9e-9ecd-4872-99ca-5bad8ad96030",
+
+            "name": "Priyanka Sinha"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22176,
+
+                "name": "Lightning talk"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22186,
+
+                "name": "Machine Learning"
+
+              },
+
+              {
+
+                "id": 22187,
+
+                "name": "Data Science"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22195,
+
+                "name": "Intermediate"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7133,
+
+        "room": "Eiffel Hall 2"
+
+      },
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "135756",
+
+        "title": "AI for Web : Web for AI",
+
+        "description": "Overview: \r\nThis talk explores the inter-dependence of the World Wide Web and the field of Artificial Intelligence, tracing both the storylines from their independent routes, to chronologically reaching the current day amalgamation, while discussing the major milestones of their relationship. The talk would be the complete story of the merging together of two fields, the factors that made them mutually beneficial and the projected future. \r\n\r\nOutline: \r\n\r\n1. Introduction to Speaker and Topic intuition\r\n2. The Roots of Web and AI - Mutual independence \r\n3. The Birth of Semantic Nets - First acknowledgement\r\n4. ELIZA, the ARPANET baby - Gaining popularity\r\n5. Stanford's SUMEX-AIM - Establishment of Partnership\r\n6. The Semantic Web Road map by Tim Berner’s Lee - From the Father’s Pen\r\n7. The Rise of the Crawlers - Web as the Fuel of AI\r\n8. OWL Web Ontology Language by W3C - A standard Pact signed\r\n9. Assistants, Advertisements, Security - Today\r\n10. Looking ahead - The Future",
+
+        "startsAt": "2019-08-04T13:25:00",
+
+        "endsAt": "2019-08-04T14:10:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": false,
+
+        "speakers": [
+
+          {
+
+            "id": "21ae28a4-720f-4317-b318-37a0cf4afef0",
+
+            "name": "Anubhav Singh"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22178,
+
+                "name": "Session"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22186,
+
+                "name": "Machine Learning"
+
+              },
+
+              {
+
+                "id": 22187,
+
+                "name": "Data Science"
+
+              },
+
+              {
+
+                "id": 22193,
+
+                "name": "Web Development"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22194,
+
+                "name": "Beginner"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7133,
+
+        "room": "Eiffel Hall 2"
+
+      },
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "133979",
+
+        "title": "Let's Talk Composing UI",
+
+        "description": "While Developing Apps, following a Reactive Architecture (for example MVI, Mobius, Redux and even MVVM) & Single Source of Truth can get you some big wins including but not limited to, Loose Coupling & Separation of Concerns, Code Testability and easy debugging, unidirectional data, etc. However, unlike Web, where Reactive Architectures are the norm, in Android, we need to opt for Reactive Architecture considering few tradeoffs (time to market, learning curve, etc.), as it’s not natural in Android.\r\n\r\nWhat do I mean by saying Reactive architecture is not natural in Android? Just like web frontends, Android apps revolve around the UI, everything we do in our Android apps has some direct or indirect relation with the UI, and the Android UI framework is imperative itself.\r\nWhile the Android Platform team kept adding more and more types of Views (such as Constraint Layout, RecyclerView or more recent Motion Layout), they didn’t change the nature of UI framework itself since the beginning of android development. This was majorly due to language and tooling limitations (limited by the technologies of that time).\r\n\r\nGoogle announced official support for Kotlin 2 years back, and now major numbers of professional Android Developers worldwide already adopted Kotlin, which made it easier for Google to go Kotlin first in this IO19. Kotlin comes with many perks, some of them are Functional Programming support, compiler plugin capabilities and most importantly huge support on building DSLs at ease.\r\n\r\nWhat relation does Koltin have with Reactive applications? In this IO19, Google announced Jetpack Compose (https://developer.android.com/jetpack/compose/), a new (still-in-development) next generation, Kotlin based, reactive cum declarative UI toolkit, backed by principals like Single Source of Truth, Unidirectional Data Flow, Functional Programming (especially function composition and effects).\r\n\r\nThis new UI toolkit would require a radical shift in our thought process about app architectures UI programming. In this talk, we would see how we can create and interact with UI with Jetpack Compose and how different it is from the present Android framework. We will also look into examples of some code patterns and ideas of from a few famous platforms such as Vue.js, React, Flutters, etc., and how these patterns and are adopted in Jetpack Compose.\r\n",
+
+        "startsAt": "2019-08-04T13:25:00",
+
+        "endsAt": "2019-08-04T14:10:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": false,
+
+        "speakers": [
+
+          {
+
+            "id": "f5c5d07c-9ec9-4533-b50f-0b03493041d1",
+
+            "name": "Rivu Chakraborty"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22178,
+
+                "name": "Session"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22191,
+
+                "name": "Kotlin"
+
+              },
+
+              {
+
+                "id": 22211,
+
+                "name": "Android"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22195,
+
+                "name": "Intermediate"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7132,
+
+        "room": "Eiffel Hall 1"
+
+      },
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "134583",
+
+        "title": "Not everything can fit in rows and columns",
+
+        "description": "The Graph Database is there since a long time but very restricted adaption rate and there are some rumours about where it fits. The way the web is moving forward data is becoming more unstructured which are very hard to fit in row and columns. We have adapted NoSQL databases which pose several challenges when it comes to relationships. The dgraph team is trying to fill the gaps and minimize the time required to get started with the Graph Database.",
+
+        "startsAt": "2019-08-04T14:10:00",
+
+        "endsAt": "2019-08-04T14:55:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": false,
+
+        "speakers": [
+
+          {
+
+            "id": "87e636d4-d0fe-4619-af73-1404e69b8471",
+
+            "name": "Ashok Vishwakarma"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22176,
+
+                "name": "Lightning talk"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22193,
+
+                "name": "Web Development"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22194,
+
+                "name": "Beginner"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7133,
+
+        "room": "Eiffel Hall 2"
+
+      },
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "136269",
+
+        "title": "Putting Work Manager To Work",
+
+        "description": "With the changes to background processes/tasks in Oreo(Android 8.0) it has become very complicated dealing with Background tasks from your app. Right from using Alarm Managers to Job Scheduler, there doesn't seem to be a single clean solution to this problem. In this talk, we will look at the new Work Manager announced at Google I/O 2018 to solve background processing. While, it is still in alpha we will look at what it has to offer and how to make the most of it. We will also look at some of the internal details of the Work Manager to better understand the magic under the hood and then look at some of the best ways to use it in your own app.",
+
+        "startsAt": "2019-08-04T14:10:00",
+
+        "endsAt": "2019-08-04T14:55:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": false,
+
+        "speakers": [
+
+          {
+
+            "id": "a8fd2a73-d62b-4a05-a52b-9be52909a462",
+
+            "name": "Adnan A M"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22178,
+
+                "name": "Session"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22180,
+
+                "name": "Mobile Applications"
+
+              },
+
+              {
+
+                "id": 22211,
+
+                "name": "Android"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22195,
+
+                "name": "Intermediate"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7132,
+
+        "room": "Eiffel Hall 1"
+
+      },
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "133976",
+
+        "title": "Sneaking inside Kotlin features",
+
+        "description": "Kotlin has many language features even though none of them are supported by JVM or Android ART. This talk will go through all the language features and understand how they work internally for JVM or ART compatibility.\r\n\r\nMany developers in our community uses all these APIs without knowing how they work. After this talk, they will have a good understanding of how those features work.",
+
+        "startsAt": "2019-08-04T15:00:00",
+
+        "endsAt": "2019-08-04T15:45:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": false,
+
+        "speakers": [
+
+          {
+
+            "id": "e7ace08f-10bc-4e0c-a3f1-2471868b5261",
+
+            "name": "Chandra Sekhar Nayak"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22178,
+
+                "name": "Session"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22191,
+
+                "name": "Kotlin"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22195,
+
+                "name": "Intermediate"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7132,
+
+        "room": "Eiffel Hall 1"
+
+      },
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "138544",
+
+        "title": "Women in Machine Learning - Panel Discussion",
+
+        "description": "This Panel Discussion consists of Panel members, ranging from Google to top academia, to Community Contributors to Students, all of whom are working on/studying Machine Learning. \r\nImportance of Machine Learning. Their journey in Machine Learning, difficulties they faced and how they overcome those.",
+
+        "startsAt": "2019-08-04T15:00:00",
+
+        "endsAt": "2019-08-04T15:45:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": false,
+
+        "speakers": [
+
+          {
+
+            "id": "f30fb92d-035d-40c4-807c-3634e6e98c2f",
+
+            "name": "Manisha Biswas"
+
+          },
+
+          {
+
+            "id": "48d6fe14-8590-4aa3-9dcf-2baf01862ba6",
+
+            "name": "Sumitra Bagchi"
+
+          },
+
+          {
+
+            "id": "edcab206-bd12-447f-b0d4-62d1ffcd2c7b",
+
+            "name": "Riya Guha Thakurta"
+
+          },
+
+          {
+
+            "id": "41eaebb9-f1c8-45b1-90f1-bf2f048ce304",
+
+            "name": "Nikita Gandhi"
+
+          },
+
+          {
+
+            "id": "f5629ba6-e9d4-4a51-a5dc-356db6189e1a",
+
+            "name": "Ankita Prakash"
+
+          },
+
+          {
+
+            "id": "43bd2c9e-9ecd-4872-99ca-5bad8ad96030",
+
+            "name": "Priyanka Sinha"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22178,
+
+                "name": "Session"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22186,
+
+                "name": "Machine Learning"
+
+              },
+
+              {
+
+                "id": 22187,
+
+                "name": "Data Science"
+
+              },
+
+              {
+
+                "id": 22188,
+
+                "name": "TensorFlow"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22194,
+
+                "name": "Beginner"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7133,
+
+        "room": "Eiffel Hall 2"
+
+      },
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "137235",
+
+        "title": "Manage your app state like a Pro",
+
+        "description": "In Flutter - To manage the app state is quite trivial, In this talk, I will share which are a different way available to manage the App state and which one is better in which scenario. I will discuss not state management using Inherited widget, BLoC Pattern & New Provider package in detail. ",
+
+        "startsAt": "2019-08-04T15:45:00",
+
+        "endsAt": "2019-08-04T16:30:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": false,
+
+        "speakers": [
+
+          {
+
+            "id": "d9bb8d03-9d91-480f-b196-1bb068e63b8a",
+
+            "name": "Dhrumil Shah"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22178,
+
+                "name": "Session"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22179,
+
+                "name": "Flutter"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22195,
+
+                "name": "Intermediate"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7132,
+
+        "room": "Eiffel Hall 1"
+
+      },
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "134974",
+
+        "title": "Minimizing CPU utilization for deep networks",
+
+        "description": "The advent of machine learning along with its integration with computer vision has enabled users to efficiently to develop image-based solutions for innumerable use cases. A machine learning model consists of an algorithm which draws some meaningful correlation between the data without being tightly coupled to a specific set of rules. It's crucial to explain the subtle nuances of the network along with the use-case we are trying to solve. With the advent of technology, the quality of the images has increased which in turn has increased the need for resources to process the images for building a model. The main question, however, is to discuss the need to develop lightweight models keeping the performance of the system intact.\r\nTo connect the dots, we will talk about the development of these applications specifically aimed to provide equally accurate results without using much of the resources. This is achieved by using image processing techniques along with optimizing the network architecture.\r\nThese applications will range from recognizing digits, alphabets which the user can 'draw' at runtime; developing state of the art facial recognition system; predicting hand emojis, developing a self-driving system, detecting Malaria and brain tumor, along with Google's project of 'Quick, Draw' of hand doodles.\r\nIn this presentation, we will discuss the development of such applications with minimization of CPU usage.",
+
+        "startsAt": "2019-08-04T15:45:00",
+
+        "endsAt": "2019-08-04T16:30:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": false,
+
+        "speakers": [
+
+          {
+
+            "id": "36d58ddd-edb6-4d74-8f4b-5f68ebe578c3",
+
+            "name": "Akshay Bahadur"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22178,
+
+                "name": "Session"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22186,
+
+                "name": "Machine Learning"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22194,
+
+                "name": "Beginner"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7133,
+
+        "room": "Eiffel Hall 2"
+
+      },
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "138249",
+
+        "title": "Dark Sky Mysteries With ML",
+
+        "description": "Past, Present & Future of Astronomy with ML and a case study of discovering new exoplanets.",
+
+        "startsAt": "2019-08-04T16:50:00",
+
+        "endsAt": "2019-08-04T17:20:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": true,
+
+        "speakers": [
+
+          {
+
+            "id": "781b0c18-fcc9-4001-9560-77a81520da61",
+
+            "name": "Dikshita Desai"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22176,
+
+                "name": "Lightning talk"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22186,
+
+                "name": "Machine Learning"
+
+              },
+
+              {
+
+                "id": 22188,
+
+                "name": "TensorFlow"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22194,
+
+                "name": "Beginner"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7132,
+
+        "room": "Eiffel Hall 1"
+
+      },
+
+      {
+
+        "questionAnswers": [],
+
+        "id": "138260",
+
+        "title": "Become a Pro Flutter Developer",
+
+        "description": "I will talk about some of the useful tips for flutter developers.",
+
+        "startsAt": "2019-08-04T17:20:00",
+
+        "endsAt": "2019-08-04T17:50:00",
+
+        "isServiceSession": false,
+
+        "isPlenumSession": true,
+
+        "speakers": [
+
+          {
+
+            "id": "ef8bdc1c-c97e-4884-a363-df9c3afd2b30",
+
+            "name": "Pawan Kumar"
+
+          },
+
+          {
+
+            "id": "a1009d19-cdb1-417b-baa6-555d03ea480a",
+
+            "name": "Sayak Paul"
+
+          }
+
+        ],
+
+        "categories": [
+
+          {
+
+            "id": 15418,
+
+            "name": "Session format",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22178,
+
+                "name": "Session"
+
+              }
+
+            ],
+
+            "sort": 0
+
+          },
+
+          {
+
+            "id": 15419,
+
+            "name": "Technology",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22179,
+
+                "name": "Flutter"
+
+              }
+
+            ],
+
+            "sort": 1
+
+          },
+
+          {
+
+            "id": 15420,
+
+            "name": "Audience level",
+
+            "categoryItems": [
+
+              {
+
+                "id": 22195,
+
+                "name": "Intermediate"
+
+              }
+
+            ],
+
+            "sort": 2
+
+          }
+
+        ],
+
+        "roomId": 7132,
+
+        "room": "Eiffel Hall 1"
+
+      }
+
+    ]
+
+  }
+
+]
