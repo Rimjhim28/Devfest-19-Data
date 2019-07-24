@@ -3,6 +3,32 @@
     "groupId": null,
     "groupName": "All",
     "sessions": [
+          {
+            "id": "9b40c120-62ef-4f0e-a7e9-e9877e1f5c26",
+            "title": "Registration",
+            "description": null,
+            "startsAt": "2019-08-04T08:00:00",
+            "endsAt": "2019-08-04T08:50:00",
+            "isServiceSession": true,
+            "isPlenumSession": true,
+            "speakers": [],
+            "categories": [],
+            "roomId": 7132,
+            "room": "Eiffel Hall 1 & Eiffel Hall 2"
+          },
+		{
+            "id": "9b40c120-62ef-4f0e-a7e9-e9877e1f5c26",
+            "title": "Registration",
+            "description": null,
+            "startsAt": "2019-08-04T08:00:00",
+            "endsAt": "2019-08-04T08:50:00",
+            "isServiceSession": true,
+            "isPlenumSession": true,
+            "speakers": [],
+            "categories": [],
+            "roomId": 7132,
+            "room": "Eiffel Hall 1 & Eiffel Hall 2"
+          },
       {
         "questionAnswers": [],
         "id": "138244",
