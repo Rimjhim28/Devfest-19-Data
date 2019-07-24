@@ -340,6 +340,64 @@
         ],
         "roomId": 7133,
         "room": "Eiffel Hall 2"
+      },
+      {
+        "questionAnswers": [],
+        "id": "134243",
+        "title": "A tale of Multiplatform",
+        "description": "In the current wave of cross platform solutions, Kotlin’s multiplatform is shaping up to be a unique proponent of code reuse. Unlike write once run everywhere, Multiplatform offers a unique space of reusability and formalization of code across platforms and also removes dependency on custom VMs or runtime. Through this talk we'll go through building an app for Android and iOS and use Kotlin multiplatform for code sharing and building an abstraction layer across platforms.\r\nContents:\r\n- Introduction to Kotlin Multiplatform.\r\n- Basic Architecture for a Multiplatform app.\r\n- Multiplatform Libraries and few gotchas.\r\n- Pseudo code illustration.\r\n- Sample code/demo application.",
+        "startsAt": "2019-08-04T10:25:00",
+        "endsAt": "2019-08-04T11:10:00",
+        "isServiceSession": false,
+
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "0e8af5b9-c572-4e25-b1bc-c20ee829a68a",
+            "name": "Bedanta Bikash Borah"
+          },
+          {
+            "id": "a7da8c70-c13b-4ad5-aa0a-ddb502e5eed6",
+            "name": "Jitin Sharma"
+          }
+        ],
+        "categories": [
+          {
+            "id": 15418,
+            "name": "Session format",
+            "categoryItems": [
+              {
+                "id": 22178,
+                "name": "Session"
+              }
+            ],
+            "sort": 0
+          },
+          {
+            "id": 15419,
+            "name": "Technology",
+            "categoryItems": [
+              {
+                "id": 22213,
+                "name": "Kotlin Multiplatform"
+              }
+            ],
+            "sort": 1
+          },
+          {
+            "id": 15420,
+            "name": "Audience level",
+            "categoryItems": [
+              {
+                "id": 22195,
+                "name": "Intermediate"
+              }
+            ],
+            "sort": 2
+          }
+        ],
+        "roomId": 7132,
+        "room": "Eiffel Hall 1"
       }
     ]
   }
