@@ -21,43 +21,100 @@
         "categories": [
           {
             "id": 15418,
-            "name": "Session format",
+            "name": "",
             "categoryItems": [
               {
-                "id": 22178,
-                "name": "Session"
+                "id": 0,
+                "name": "0"
               }
             ],
             "sort": 0
           },
           {
-            "id": 15419,
-            "name": "Technology",
+            "id": 0,
+            "name": "",
             "categoryItems": [
               {
-                "id": 22179,
-                "name": "Flutter"
+                "id": 0,
+                "name": "0"
               },
               {
-                "id": 22186,
-                "name": "Machine Learning"
+                "id": 0,
+                "name": ""
               }
             ],
             "sort": 1
           },
           {
-            "id": 15420,
-            "name": "Audience level",
+            "id": 0,
+            "name": "",
             "categoryItems": [
               {
-                "id": 22195,
-                "name": "Intermediate"
+                "id": 0,
+                "name": ""
               }
             ],
             "sort": 2
           }
         ],
         "roomId": 7132,
+        "room": "Eiffel Hall 1 & Eiffel Hall 2"
+      },
+{
+        "questionAnswers": [],
+        "id": "138244",
+        "title": "Registration",
+        "description": null,
+        "startsAt": "2019-08-04T08:00:00",
+        "endsAt": "2019-08-04T08:50:00",
+        "isServiceSession": false,
+        "isPlenumSession": true,
+        "speakers": [
+          {
+            "id": "",
+            "name": "Registration Desk"
+          }
+        ],
+        "categories": [
+          {
+            "id": 15418,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": "0"
+              }
+            ],
+            "sort": 0
+          },
+          {
+            "id": 0,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": "0"
+              },
+              {
+                "id": 0,
+                "name": ""
+              }
+            ],
+            "sort": 1
+          },
+          {
+            "id": 0,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": ""
+              }
+            ],
+            "sort": 2
+          }
+        ],
+        "roomId": 7133,
         "room": "Eiffel Hall 1 & Eiffel Hall 2"
       },
       {
