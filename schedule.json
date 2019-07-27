@@ -116,14 +116,129 @@
         ],
         "roomId": 7133,
         "room": "Eiffel Hall 1 & Eiffel Hall 2"
+      },     
+      {
+        "questionAnswers": [],
+        "id": "138244",
+        "title": "Keynote",
+        "description": null,
+        "startsAt": "2019-08-04T08:50:00",
+        "endsAt": "2019-08-04T09:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": true,
+        "speakers": [
+          {
+            "id": "",
+            "name": "Harsh Duttani"
+          }
+        ],
+        "categories": [
+          {
+            "id": 15418,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": "0"
+              }
+            ],
+            "sort": 0
+          },
+          {
+            "id": 0,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": "0"
+              },
+              {
+                "id": 0,
+                "name": ""
+              }
+            ],
+            "sort": 1
+          },
+          {
+            "id": 0,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": ""
+              }
+            ],
+            "sort": 2
+          }
+        ],
+        "roomId": 7132,
+        "room": "Eiffel Hall 1 & Eiffel Hall 2"
+      },
+      
+      {
+        "questionAnswers": [],
+        "id": "138244",
+        "title": "Keynote",
+        "description": null,
+        "startsAt": "2019-08-04T08:50:00",
+        "endsAt": "2019-08-04T9:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": true,
+        "speakers": [
+          {
+            "id": "",
+            "name": "Harsh Duttani"
+          }
+        ],
+        "categories": [
+          {
+            "id": 15418,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": "0"
+              }
+            ],
+            "sort": 0
+          },
+          {
+            "id": 0,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": "0"
+              },
+              {
+                "id": 0,
+                "name": ""
+              }
+            ],
+            "sort": 1
+          },
+          {
+            "id": 0,
+            "name": "",
+            "categoryItems": [
+              {
+                "id": 0,
+                "name": ""
+              }
+            ],
+            "sort": 2
+          }
+        ],
+        "roomId": 7133,
+        "room": "Eiffel Hall 1 & Eiffel Hall 2"
       },
       {
         "questionAnswers": [],
         "id": "138244",
         "title": "Keynote: How and Why Communities Can Help!",
         "description": "Being a part of communities for more than 5 years, I will talk about my experience on how communities can help to improve your professional skills.",
-        "startsAt": "2019-08-04T08:50:00",
-        "endsAt": "2019-08-04T09:20:00",
+        "startsAt": "2019-08-04T09:00:00",
+        "endsAt": "2019-08-04T09:30:00",
         "isServiceSession": false,
         "isPlenumSession": true,
         "speakers": [
@@ -181,8 +296,8 @@
         "id": "138244",
         "title": "Keynote: How and Why Communities Can Help!",
         "description": "Being a part of communities for more than 5 years, I will talk about my experience on how communities can help to improve your professional skills.",
-        "startsAt": "2019-08-04T08:50:00",
-        "endsAt": "2019-08-04T09:20:00",
+        "startsAt": "2019-08-04T09:00:00",
+        "endsAt": "2019-08-04T09:30:00",
         "isServiceSession": false,
         "isPlenumSession": true,
         "speakers": [
