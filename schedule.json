@@ -354,8 +354,8 @@
         "id": "138244",
         "title": "Tea Break",
         "description": null,
-        "startsAt": "2019-08-04T09:15:00",
-        "endsAt": "2019-08-04T09:35:00",
+        "startsAt": "2019-08-04T09:30:00",
+        "endsAt": "2019-08-04T10:00:00",
         "isServiceSession": false,
         "isPlenumSession": true,
         "speakers": [
@@ -412,8 +412,8 @@
         "id": "138244",
         "title": "Tea Break",
         "description": null,
-        "startsAt": "2019-08-04T09:15:00",
-        "endsAt": "2019-08-04T09:35:00",
+        "startsAt": "2019-08-04T09:30:00",
+        "endsAt": "2019-08-04T10:00:00",
         "isServiceSession": false,
         "isPlenumSession": true,
         "speakers": [
@@ -469,8 +469,8 @@
         "id": "135470",
         "title": "Cut your APK size with features on demand",
         "description": "Do APK or app size matters?\r\nDoes a user think about the APK size before downloading it?\r\nDoes a user think about space, an app occupying on the phone?\r\nIs your App size is more than just a few MBs?\r\n\r\nWhat if we provide very basic functionality and let the user decide whether he wants the advanced or additional functionality or not?\r\n\r\nYes, The user thinks about the app size before downloading or updating an app which has a size larger than a few MBs. The user thinks about the data also over which he will be downloading or updating that app. He or she even think about how much space will it take on his or her device. In this fight of space in the device and size of the app, the apps having a smaller size and frequent utility wins the battle. \r\n\r\nWhat if we provide very basic functionality and let the user decide whether he wants the advanced or additional functionality or not. What if he or she can download only the features he needs on demand and keep the app compact. \r\n\r\nGoogle new feature of dynamic delivery enables us to deliver the features on demand. This helps us to reduce the size of APK and even enables the user to choose what features he needs. From a developers perspective, this is very easy to implement and maintain.\r\n\r\nEven we (Sharechat) were also at the same state where the size of APK was an issue with the new set of features we were trying to implement. Google Dynamic delivery came to the rescue.\r\n\r\nWhat is actually a dynamic delivery?\r\nHow can we reduce the APK size with it?\r\nHow it can help a user?\r\nHow to implement it in Android?\r\nHow difficult is it to implement in the existing code base?\r\nHow will it look to the user in the app?\r\n\r\nWell, let's get all these questions answered in the talk along with our experiences and challenges we faced.",
-        "startsAt": "2019-08-04T09:35:00",
-        "endsAt": "2019-08-04T10:20:00",
+        "startsAt": "2019-08-04T10:00:00",
+        "endsAt": "2019-08-04T10:45:00",
         "isServiceSession": false,
         "isPlenumSession": false,
         "speakers": [
@@ -526,8 +526,8 @@
         "id": "134367",
         "title": "Scale your Web Application Securely on Compute Engine",
         "description": "A session with a demo explaining the multi-tier web app on Compute Engine. Below are the topics which I will cover in the session.\r\n\r\n1 IAAS Market stats and Compute options on GCP\r\n2 Choosing the right to compute service for the workload.\r\n3. Basics of Compute Engine along with spinning one Linux VM. Explaining all the various option/components. Showing the biggest VM available on Compute Engine.\r\n4. Presenting the Multi-Tier Application and explaining the role of each tier.\r\n5. Load Testing and demo of autoscaling and explaining the security parameters which needs to be taken care of.\r\n\r\nOverall this session will the idea of how the real world application is running and the value of GCP platform which is the lower level and most in use by an enterprise application to Startup workload.\r\n",
-        "startsAt": "2019-08-04T09:35:00",
-        "endsAt": "2019-08-04T10:20:00",
+        "startsAt": "2019-08-04T10:00:00",
+        "endsAt": "2019-08-04T10:45:00",
         "isServiceSession": false,
         "isPlenumSession": false,
         "speakers": [
