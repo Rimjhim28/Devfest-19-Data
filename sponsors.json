@@ -28,5 +28,23 @@
 		"url": "https://www.pyimagesearch.com/",
 		"logo": "https://raw.githubusercontent.com/Rimjhim28/Devfest-19-Data/master/pyimagesearch.png",
 		"description": "Dedicated to helping developers, students, and researchers become awesome at Deep Learning, OpenCV, and Python."
+	},
+	{
+		"name": "Shroff Publishers & Distributors" ,
+		"url": "https://www.shroffpublishers.com/",
+		"logo": "https://raw.githubusercontent.com/Rimjhim28/Devfest-19-Data/master/spd_logo.png",
+		"description": "Shroff Publishers and Distributors Private Limited has a tie up to reprint and distribute a few US publishers like O'Reilly Media Inc., Maker Media Inc.,SitePoint Pty. Ltd, Mike Murach & Associates, Rampant TechPress, Pragmatic Bookshelf, IBM Redbooks, MC Press, Discovery Press, etc."
+	},
+	{
+		"name": "Droidcon India" ,
+		"url": "https://www.in.droidcon.com/",
+		"logo": "https://raw.githubusercontent.com/Rimjhim28/Devfest-19-Data/master/chennai_droidcon.png",
+		"description": "The droidcon HQ team and Chennai-based organizer team are excited to bring droidcon back to India after a two-year hiatus."
+	},
+	{
+		"name": "Uvsity" ,
+		"url": "https://www.uvsity.com/#/",
+		"logo": "https://raw.githubusercontent.com/Rimjhim28/Devfest-19-Data/master/uvsity.png",
+		"description": "Uvisity is an educational social network."
 	}
 ]
